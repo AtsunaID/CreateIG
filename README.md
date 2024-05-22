@@ -1,5 +1,4 @@
 
-
 <h6 align="center"> 
   TOOLS AUTO CREATE ACCOUNT INSTAGRAM
 </h6>
@@ -12,7 +11,9 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 # Support 
-<h6 align="center">
+<h6>
   Sidiq Brewstreet
-  
 </h6>
+<a link="https://github.com/brewstreet" target="_blank">
+   	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
