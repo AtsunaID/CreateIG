@@ -14,6 +14,15 @@
 <h6>
   Sidiq Brewstreet
 </h6>
-<a link="https://github.com/brewstreet" target="_blank">
-   	<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/sidiqbrewstreet" target="_blank">
+   	<img alt="sodiqbrewstreet" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+# Install 
+$ pkg install git 
+$ pip install bs4 
+$ pip install fake_email 
+$ git clone https://github.com/AtsunaID/CreateIG 
+$ cd CreateIG 
+$ ls 
+$ python run.py
