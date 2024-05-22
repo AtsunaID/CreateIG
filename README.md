@@ -18,7 +18,9 @@
    	<img alt="sodiqbrewstreet" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-# Install 
+### Install Script On Termux
+
+``` 
 $ pkg install git 
 $ pip install bs4 
 $ pip install fake_email 
@@ -26,3 +28,4 @@ $ git clone https://github.com/AtsunaID/CreateIG
 $ cd CreateIG 
 $ ls 
 $ python run.py
+``` 
