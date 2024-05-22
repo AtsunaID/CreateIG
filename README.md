@@ -1,6 +1,6 @@
 
-# MY PROJECT
-<h6 align: center> 
+
+<h6 align="center"> 
   TOOLS AUTO CREATE ACCOUNT INSTAGRAM
 </h6>
 
